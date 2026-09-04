@@ -1,11 +1,11 @@
-### Hey, I'm [fr33di!](https://github.com/fr33cod) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="12px">
+### Hey, I'm [freedi!](https://github.com/freediqz) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="12px">
 Software developer specialized in process automation with JavaScript and Python. Experienced in creating scripts and tools that optimize workflows and improve operational efficiency. Passionate about continuous learning and development best practices, I enjoy collaborating on open source projects and exploring new technologies to drive innovation.
 
 
 
 
 ### Tech & Tools Preference
-<img src="https://github.com/fr33cd/fr33cd/blob/main/src/gs.png" height="35">  <img src="https://github.com/fr33cd/fr33cd/blob/main/src/js.png" height="35">     <img src="https://github.com/fr33cd/fr33cd/blob/main/src/py.png" height="35">  <img src="https://github.com/fr33cd/fr33cd/blob/main/src/UserRPL.png" height="35"> 
+<img src="https://github.com/fr33cd/fr33cd/blob/main/src/gs.png" height="35">  <img src="https://github.com/fr33cd/fr33cd/blob/main/src/js.png" height="35">     <img src="https://github.com/fr33cd/freediqz/blob/main/src/py.png" height="35">  <img src="https://github.com/fr33cd/fr33cd/blob/main/src/UserRPL.png" height="35"> 
 
 
 ### Other Languages I know
